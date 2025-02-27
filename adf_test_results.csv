@@ -1,0 +1,2 @@
+Exogenous,Lag Length,t-Statistic,Augmented Dickey-Fuller test statistic,1% level,5% level,10% level,p-value,Number of Observations Used,Information Criterion
+Constant,"1 (Automatic - based on AIC, maxlag=12)",,-1.7964414351566025,-3.5745892596209488,-2.9239543084490744,-2.6000391840277777,0.3822298480734594,48,-42.42007823122802

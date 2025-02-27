@@ -1,0 +1,5 @@
+0,1,2,3
+Ljung-Box (L1) (Q):,0.7,Jarque-Bera (JB):,1.21
+Prob(Q):,0.4,Prob(JB):,0.55
+Heteroskedasticity (H):,0.26,Skew:,0.32
+Prob(H) (two-sided):,0.06,Kurtosis:,2.19
